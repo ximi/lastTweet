@@ -86,7 +86,7 @@
 						// custom error callback
 						plugin.settings.onError(jqXHR, textStatus, errorThrown);
 					},
-					complete: function(jqXHR, textStatus) {	
+					complete: function(jqXHR, textStatus) {
 						// custom complete callback
 						plugin.settings.onComplete(jqXHR, textStatus);
 					}
