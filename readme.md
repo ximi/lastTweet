@@ -2,7 +2,9 @@ jQuery Last Tweet
 =============
 
 A simple jquery script (in its earliest stages) that retrieves a users latest tweet(s).
+
 See index.html for a simple demo.
+
 MIT License
 
 Options
